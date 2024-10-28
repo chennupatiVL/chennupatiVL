@@ -1,5 +1,6 @@
 # VIJAYA LAKSHMI CHENNUPATI
-# Contact : +91 8688648598  mail: chennupativijayalakshmi9@gmail.com
+# Contact : +91 8688648598  
+# mail: chennupativijayalakshmi9@gmail.com
 # OBJECTIVE
 Engineering graduate in Electronics with strong programming skills, eager to contribute to innovative
 projects and learn from the industry leaders through a job opportunity.
