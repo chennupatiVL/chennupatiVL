@@ -13,9 +13,14 @@ SSC, Intel Public School, Perecharla 2016 – 2017
 CGPA: 9.5/10
 # SKILLS
  Programming Languages: Java, Python
+ 
  Web Technologies: HTML, CSS, JavaScript
+ 
  Frameworks/Libraries: ReactJS, Flask, Bootstrap
+ 
  Database: MySQL
+ 
  Developer Tools: Git/Github, VS code, Eclipse, PyCharm
+ 
  Certifications: Python(Basic, intermediate), Problem solving(Basic, Intermediate)
  “Hacker Rank” | Communication Skills “TCS ion”
