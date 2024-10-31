@@ -7,8 +7,10 @@ projects and learn from the industry leaders through a job opportunity.
 # EDUCATION
 Bachelor of Electronics and Communication, NRI Institute of Technology, Guntur 2019 - 2023
 CGPA: 7.73/10.
+
 Intermediate(MPC), Xperts Academy, Guntur 2017 – 2019
 CGPA: 9.44/10
+
 SSC, Intel Public School, Perecharla 2016 – 2017
 CGPA: 9.5/10
 # SKILLS
